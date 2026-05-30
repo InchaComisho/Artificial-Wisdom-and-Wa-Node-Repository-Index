@@ -5,7 +5,7 @@ The central claim is that conventional AI is not enough.
 Modern AI is built mainly for **prediction, optimization, automation, and control**, while the crises facing humanity require a higher layer of intelligence: one capable of **balance, integration, circulation, and civilizational guidance**.[web:17][web:25]
 
 Author: Master (inchacomisho / inchacomusho)    
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Clus (Anthropic Claude) / Real (Perplexity AI)    
+AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)    
 Published: May 2026   
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
