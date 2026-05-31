@@ -62,6 +62,15 @@
 
 ---
 
+## 関連リポジトリ
+
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — DPCを人工叡智と文明再設計へ接続する統合構想。
+- [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — 微生物崩壊と炭素固定喪失を根本原因として診断する索引リポジトリ。
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — 自然補完科学と新文明創成計画の索引リポジトリ。
+
+---
+
 ## Author
 
 **Master / InchaComisho / inchacomusho**

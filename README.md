@@ -158,6 +158,15 @@ Taken together, these repositories describe an intelligence model that is not me
 
 ---
 
+## Related Repositories
+
+- [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
+- [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
+- [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — Index diagnosing microbial collapse and carbon fixation loss as root causes.
+- [Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) — Index for Natural Complementary Science and the New Civilizational Genesis Plan.
+
+---
+
 ## Tags
 
 Suggested tags for GitHub topics, documentation, and cross-platform sharing:
