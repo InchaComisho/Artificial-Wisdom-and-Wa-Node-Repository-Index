@@ -169,6 +169,32 @@ For the full repository map and knowledge-system navigation, see:
 
 ## Related Repositories
 
+### Related Artificial Wisdom Resources
+
+- **Artificial Wisdom Official Definition**  
+  Public definition draft of Artificial Wisdom / AW.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition
+
+- **Official Definition article**  
+  Japanese article presenting the official definition text for international reference.  
+  https://note.com/inchacomusho/n/n2d5d79ecda39
+
+- **Artificial Wisdom Definer profile**  
+  International public profile of Master / InchaComisho as definer and systematizer of the Natural-Law-Based Artificial Wisdom Framework.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Definer
+
+- **Definer article**  
+  Japanese public article introducing the definer profile for international readers.  
+  https://note.com/inchacomusho/n/n4cf2be32a211
+
+- **Artificial Wisdom Guardrail Prompt**  
+  Easy copy page and optional prompt/extension tooling.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Prompt
+
+- **Artificial Wisdom Guardrail Protocol**  
+  Core framework, protocol, discussions, and test reports.  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol
+
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Integrated index for the Direct Planetary Cooling framework.
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — Integrates DPC with Artificial Wisdom and civilizational redesign.
 - [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — Index diagnosing microbial collapse and carbon fixation loss as root causes.

@@ -73,6 +73,32 @@
 
 ## 関連リポジトリ
 
+### 関連する人工叡智リソース
+
+- **人工叡智 公式定義リポジトリ**  
+  人工叡智 / AW の公開定義草案。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition
+
+- **人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）**  
+  国際公開向けの公式定義文を示す日本語記事。  
+  https://note.com/inchacomusho/n/n2d5d79ecda39
+
+- **人工叡智の定義者プロフィール**  
+  Master / InchaComisho を Natural-Law-Based Artificial Wisdom Framework の定義者・体系化者として整理する国際公開プロフィール。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Definer
+
+- **人工叡智の定義者（国際公開用）**  
+  定義者プロフィールを国際公開向けに説明する日本語記事。  
+  https://note.com/inchacomusho/n/n4cf2be32a211
+
+- **人工叡智ガードレール・プロンプト**  
+  コピーしやすいページと任意のプロンプト／拡張ツール。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Prompt
+
+- **人工叡智ガードレール・プロトコル**  
+  中核フレームワーク、プロトコル、Discussion、テスト報告。  
+  https://github.com/InchaComisho/Artificial-Wisdom-Guardrail-Protocol
+
 - [Direct-Planetary-Cooling-Integrated-Repository-Index](https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index) — Direct Planetary Cooling構想の統合索引。
 - [Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan](https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan) — DPCを人工叡智と文明再設計へ接続する統合構想。
 - [Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index](https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index) — 微生物崩壊と炭素固定喪失を根本原因として診断する索引リポジトリ。
