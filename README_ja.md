@@ -1,5 +1,7 @@
 # 人工叡智と和ノード リポジトリ索引
 
+**言語 / Language:** 日本語 | [English Version](README.md)
+
 ## Artificial Wisdom and Wa-Node Repository Index
 
 ---
@@ -112,13 +114,22 @@
 
 ---
 
-## Author
+## 著者
 
-**Master / InchaComisho / inchacomusho**
+**著者:** マスター / inchacomusho / InchaComisho
+
+## 関連プロジェクトリンク
+
+- [AGIの未来 / The Future of AGI](https://github.com/InchaComisho/The-Future-of-AGI)
+- [ASIの未来 / The Future of ASI](https://github.com/InchaComisho/The-Future-of-ASI)
+- [AI価値体系と目的関数](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [AGI価値体系と目的関数](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI価値体系と目的関数](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [検索エンジンの未来](https://github.com/InchaComisho/The-Future-of-Search-Engines)
 
 ## License
 
-CC BY-SA 4.0
+CC BY 4.0
 ## 関連：黎明文明
 
 * [黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)

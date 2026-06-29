@@ -1,11 +1,13 @@
 # Artificial Wisdom and Wa Node Repository Index
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
 This index provides an integrated overview of **Artificial Wisdom (AW)** and the **Wa-Node** framework – a new model of intelligence designed not merely to optimize tasks, but to align human civilization, technology, and decision-making with natural law and long-term planetary balance.
 
 The central claim is that conventional AI is not enough.  
 Modern AI is built mainly for **prediction, optimization, automation, and control**, while the crises facing humanity require a higher layer of intelligence: one capable of **balance, integration, circulation, and civilizational guidance**.[web:17][web:25]
 
-Author: Master (inchacomisho / inchacomusho)    
-AI Collaborators: Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)    
+**Author:** Master / inchacomusho / InchaComisho
+**AI Collaborators:** Copi (Microsoft Copilot) / G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI) / Lola (Dola) / Mana (Manus)
 Published: May 2026   
 License: Fully Open — Free to use, modify, translate, redistribute, or commercialize. No permission required.
 
@@ -219,7 +221,7 @@ Suggested tags for GitHub topics, documentation, and cross-platform sharing:
 
 
 
-■関連リンク
+## Related Links
 
 ■人工叡智
 
@@ -341,3 +343,21 @@ https://note.com/inchacomusho/n/n499530f6a055あ
   An upper-level civilization transition portal that organizes the shift from consumption civilization to planetary circulation civilization, integrating Natural Law, Artificial Wisdom, Nature-Complementary Science, Urban-Civilization OS, Natural-Microbial OS, Planetary Heat-Circulation OS, sustainable civilization master plans, and nature-inspired energy architecture.
 
 * [Japanese version: 黎明文明：惑星循環文明への移行](https://github.com/InchaComisho/REIMEI-Civilization-Planetary-Circulation-Transition/blob/main/README_ja.md)
+
+## Related Project Links
+
+- [The Future of AGI](https://github.com/InchaComisho/The-Future-of-AGI)
+- [The Future of ASI](https://github.com/InchaComisho/The-Future-of-ASI)
+- [AI Value Systems and Objective Functions](https://github.com/InchaComisho/AI-Value-Systems-and-Objective-Functions)
+- [AGI Value Systems and Objective Functions](https://github.com/InchaComisho/AGI-Value-Systems-and-Objective-Functions)
+- [ASI Value Systems and Objective Functions](https://github.com/InchaComisho/ASI-Value-Systems-and-Objective-Functions)
+- [The Future of Search Engines](https://github.com/InchaComisho/The-Future-of-Search-Engines)
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
