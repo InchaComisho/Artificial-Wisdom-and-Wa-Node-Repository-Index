@@ -3,6 +3,8 @@
 
 This index provides an integrated overview of **Artificial Wisdom (AW)** and the **Wa-Node** framework – a new model of intelligence designed not merely to optimize tasks, but to align human civilization, technology, and decision-making with natural law and long-term planetary balance.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 The central claim is that conventional AI is not enough.  
 Modern AI is built mainly for **prediction, optimization, automation, and control**, while the crises facing humanity require a higher layer of intelligence: one capable of **balance, integration, circulation, and civilizational guidance**.[web:17][web:25]
 
