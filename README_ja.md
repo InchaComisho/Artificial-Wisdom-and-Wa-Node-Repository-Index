@@ -85,7 +85,6 @@
 
 - **人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）**  
   国際公開向けの公式定義文を示す日本語記事。  
-  https://note.com/inchacomusho/n/n2d5d79ecda39
 
 - **人工叡智の定義者プロフィール**  
   Master / InchaComisho を Natural-Law-Based Artificial Wisdom Framework の定義者・体系化者として整理する国際公開プロフィール。  
@@ -93,7 +92,6 @@
 
 - **人工叡智の定義者（国際公開用）**  
   定義者プロフィールを国際公開向けに説明する日本語記事。  
-  https://note.com/inchacomusho/n/n4cf2be32a211
 
 - **人工叡智ガードレール・プロンプト**  
   コピーしやすいページと任意のプロンプト／拡張ツール。  
@@ -111,8 +109,6 @@
 - [The-Six-Principles-of-Natural-Law](https://github.com/InchaComisho/The-Six-Principles-of-Natural-Law) — 自然法則・調和・循環・構造・秩序・和による文明OS。
 - [REIMEI 自然模倣型エネルギー・アーキテクチャ](https://github.com/InchaComisho/REIMEI-Nature-Inspired-Energy-Architecture/blob/main/README_ja.md) — Dual-Core 回転エネルギー回収、REIMEI-NOP、音波・振動・圧力水循環・熱排気・車両エネルギー回収、AIアンドロイド用エネルギーコア構想を整理する、未検証のオープン仮説・オープン発明のポータル。
 - [REIMEI-NOP：自然起源プラズマ生成炉構想](https://github.com/InchaComisho/REIMEI-NOP-Natural-Origin-Plasma-Generator/blob/main/README_ja.md) — 自然模倣型プラズマ生成、補助エネルギー回収、AIアンドロイド用小型エネルギーコア仮説、自然補完科学、人工叡智評価に接続する未検証のオープン仮説。完成した発電機ではない。
-- [NOTE記事：雷の原理を模倣する自然起源プラズマ炉構想](https://note.com/inchacomusho/n/nf62145209118)
-- [元構想記事：REIMEI-NOP 技術設計書兼文明宣言](https://note.com/inchacomusho/n/n79be86605430)
 
 ---
 
